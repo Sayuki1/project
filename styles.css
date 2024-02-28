@@ -18,3 +18,18 @@ body{
     padding: 10px;
     text-decoration: wavy;
 }
+.banner{
+    /*vh= viewpoint height = window height */
+    min-height: 50vh;
+    color: pink;
+    background-image: url(pexels-arina-krasnikova-7725968.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.banner h1{
+    text-align: center;
+    margin: 0px;
+    padding: 25vh;
+    font-size: 6em;
+    text-shadow: 5px 0px 20px #5e125e;
+}
