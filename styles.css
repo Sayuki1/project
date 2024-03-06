@@ -7,10 +7,12 @@ body{
     margin:auto;
 }
 .navigation{
-    text-align: center;
+    text-align: right;
 }
 .header{
     background-color: pink;
+    /* display: flex;  */
+    justify-content: space-evenly;
 }
 .navigation a {
     color:rgb(0, 0, 0);
